@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Data
-description: Data functions
 ---
 
 ## Подготовка данных

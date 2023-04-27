@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Activation
-description: Activation
 ---
 
 ## Передаточные функции

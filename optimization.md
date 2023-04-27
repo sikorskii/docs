@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Optimization
-description: Optimization
 ---
 
 ## Функции оптимизации
